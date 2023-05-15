@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Create User Interface for Admin Panel",
+    "description": "The User Interface should be simple and easy to use."
+  },
+  {
+    "name": "Test User Interface on iOS browsers.",
+    "description": "Test it on Safari, Chrome and Firefox"
+  },
+  {
+    "name": "Bug on tab buttons",
+    "description": "The tab buttons should be highlighted not grayed out."
+  },
+  {
+    "name": "Add swipe for changing tabs on mobile phones",
+    "description": "On the phones instead of clicking on tab we should use swipe"
+  },
+  {
+    "name": "Add logo to loading screen",
+    "description": "On Loading Screen display logo in attachment"
+  },
+  {
+    "name": "Add version text on the loading screen",
+    "description": "In bottom left corner add application version."
+  },
+  {
+    "name": "The application crashes when clicking on the new customer button.",
+    "description": "Please check the stack trace for more info."
+  },
+  {
+    "name": "Replace all icons on UI",
+    "description": "The new icons are attached."
+  },
+  {
+    "name": "In Admin Area we cant see all users",
+    "description": "The created user is not displayed in the admin area only after refreshing the page."
+  },
+  {
+    "name": "The search by Address is not working.",
+    "description": "Searching for customers by address is currently not working."
+  }
+]

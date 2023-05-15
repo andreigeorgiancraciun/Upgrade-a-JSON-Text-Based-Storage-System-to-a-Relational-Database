@@ -1,0 +1,5 @@
+com/example/springboot/common/BaseEntity.class
+com/example/springboot/project/Project.class
+com/example/springboot/tasklist/TaskList.class
+com/example/springboot/SpringbootApplication.class
+com/example/springboot/task/Task.class
